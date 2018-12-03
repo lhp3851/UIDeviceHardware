@@ -3,12 +3,12 @@ Pod::Spec.new do |s|
   s.version      = "1.0.0"
   s.summary      = "Category to check hardware version that's running iOS"
 
-  s.homepage     = 'https://github.com/froztbytes/UIDeviceHardware'
+  s.homepage     = 'https://github.com/lhp3851/UIDeviceHardware'
   s.license      = { :type => 'MIT'}
-  s.author       = { "fahrulazmi" => "fahrulazmi@gmail.com" }
+  s.author       = { "lhp3851" => "lhp3851@163.com" }
   
   s.source       = { 
-    :git => "https://github.com/froztbytes/UIDeviceHardware.git", 
+    :git => "https://github.com/lhp3851/UIDeviceHardware.git", 
     :tag => "v#{s.version}" }
   
   s.platform     = :ios
